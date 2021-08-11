@@ -4,6 +4,7 @@ clone, install express and run
 
 ```
 git clone https://github.com/kashkhan0/expressapi.git
+cd expressapi
 npm install express
 node index.js
 ```
